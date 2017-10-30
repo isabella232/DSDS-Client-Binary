@@ -1,0 +1,3 @@
+Host github.com
+    IdentityFile ~/.ssh/dsds-git.pem
+    StrictHostKeyChecking no

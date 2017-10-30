@@ -1,0 +1,7 @@
+- hosts: dsds
+  remote_user: centos
+  #become: yes
+  sudo: true
+  roles:
+   - dsds-client
+
