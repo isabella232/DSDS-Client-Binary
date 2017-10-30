@@ -90,11 +90,11 @@
       path: /opt/dsds-client/dsds-client-cmd.py
       regexp: '^server_host = '
       insertafter: '#server_host'
-      line: 'server_host = 192.168.3.22'
+      line: 'server_host = "192.168.3.22"'
 
   - name: setup DSDS server port
     lineinfile:
       path: /opt/dsds-client/dsds-client-cmd.py
       regexp: '^port = '
       insertafter: '#port'
-      line: 'port = 443'
+      line: 'port = "443"'
