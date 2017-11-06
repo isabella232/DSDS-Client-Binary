@@ -1,6 +1,6 @@
 ---
 - hosts: 127.0.0.1
-#  become: true  # use sudo
+  become: true  # use sudo
   remote_user: root
   tasks:
   - name: Add EPEL repository needed for pip (Centos7)
