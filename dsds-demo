@@ -1,0 +1,11 @@
+{
+"SourceSiteName": "EMBL-EBI",
+"TransferSource": "gsiftp://hx-gridftp-test.ebi.ac.uk:2811/data01/test/data/MarineMetagenomics/SRR342/",
+"Protocol": "gridftp",
+"Hostname": "hx-gridftp-test.ebi.ac.uk",
+"Port": "2811",
+"FilePath": "/data01/test/data/MarineMetagenomics/SRR342/",
+"CreatorName": "JC",
+"CreatorEmail": "jinnychien@ebi.ac.uk",
+"DatasetName": "marinemetagenomics"
+}
