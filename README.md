@@ -5,6 +5,11 @@ DSDS is Client/Server Mode, this introduction will show how to deploy DSDS with 
 # DSDS-Client-Binary
 DSDS Client use ELIXIR AAI for authentication, make sure the client environment installed browser service.
 
+Support
+Windows: Windows 10 Pro
+Linux: Centos 7
+MacOS
+
 # DSDS WorkFlow
 ![image](https://github.com/EMBL-EBI-TSI/DSDS-Client-Binary/blob/master/images/DSDSWorkflow.jpeg)
 
