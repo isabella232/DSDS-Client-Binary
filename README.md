@@ -1,11 +1,11 @@
-# DSDS(Data Set Distribution Service)
+# RDSDS( Reference Data Set Distribution Service)
 
-DSDS is Client/Server Mode, this introduction will show how to deploy DSDS with Binary Code.
+RDSDS is Client/Server Mode, this introduction will show how to deploy RDSDS with Binary Code.
 
 # DSDS-Client-Binary
-DSDS Client use ELIXIR AAI for authentication, make sure the client environment installed browser service.
+RDSDS Client use ELIXIR AAI for authentication, make sure the client environment installed browser service. At the moment, RDSDS is running on ELIXIR Test environment, please be confirmed if you belong to ELIXIR Test VO (Virtual Organisation), if you can more details via https://perun.elixir-czech.cz/fed/registrar//registrar/?vo=elixir_test
 
-Support: Windows 10 Pro, Centos 7, Fedora 28 and MacOS
+Support: Windows 10 Pro, Centos 7, Fedora 28, Ubuntu and MacOS
 
 # DSDS WorkFlow
 ![image](https://github.com/EMBL-EBI-TSI/DSDS-Client-Binary/blob/master/images/DSDSWorkflow.jpeg)
