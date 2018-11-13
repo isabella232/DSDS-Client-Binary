@@ -7,6 +7,8 @@ RDSDS Client use ELIXIR AAI for authentication, make sure the client environment
 
 Support: Windows 10 Pro, Centos 7, Fedora 28, Ubuntu and MacOS
 
+If you can't run this file. Please check the file format, if it is plain text file, please execute this command : chomd +x 
+
 # DSDS WorkFlow
 ![image](https://github.com/EMBL-EBI-TSI/DSDS-Client-Binary/blob/master/images/DSDSWorkflow.jpeg)
 
@@ -179,6 +181,11 @@ Data consumer subscribes which data set he/she wants, then they will get the Emi
 ***Add subscriber***
 ````
 (dsds>)adduser <filename.json
+````
+
+***Update subscriber***
+````
+(dsds>)updateuser <filename.json
 ````
 
 ***Delete subscriber***
