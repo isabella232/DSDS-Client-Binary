@@ -4,7 +4,7 @@
 "Email": "bluesea70324@gmail.com",
 "Organisation": "EMBL-EBI",
 "Hostname": "hx-gridftp-test.ebi.ac.uk",
-"Port": "",
+"Port": "8446",
 "FilePath": "/data01/test/genouest/"
 }
 
